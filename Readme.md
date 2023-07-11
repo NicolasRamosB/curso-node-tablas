@@ -1,4 +1,4 @@
-##Notas:
+#Notas:
 #Comandos de la consola para las tablas.
 
 ```
